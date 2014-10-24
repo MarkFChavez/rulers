@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Rulers::VERSION
   spec.authors       = ["Mark Chavez"]
   spec.email         = ["markchav3z@gmail.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.summary       = %q{Rack-based web framework}
+  spec.description   = %q{Rack-based web framework with extra awesomeness}
   spec.homepage      = ""
   spec.license       = "MIT"
 
